@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 
-setInterval(addBubble,100);
+setInterval(addBubble, 100);
 
 }); //end.ready
 
